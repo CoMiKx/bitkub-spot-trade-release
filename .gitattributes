@@ -1,0 +1,6 @@
+# ClickOnce deployment files — must be treated as binary to preserve exact bytes.
+# Git must NOT change line endings; any modification breaks SHA hash validation.
+*.application  binary
+*.manifest     binary
+*.deploy       binary
+setup.exe      binary
